@@ -1,7 +1,7 @@
 a  b                    c  d  e  f
 aa bb                   cc dd ee ff
-aaab                  cccdddeeefff
+aaabbb                  cccdddeeefff
 aaabbb                  cccccccccccccccccccccdddeeefff
-aaab                    cccdddeeefff
+aaab                    cccdddeeefffa
 a  f
 
