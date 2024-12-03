@@ -16,4 +16,4 @@ jobs:
     - name: Build
       run: clang++ Source.cpp -o text2table
     - name: Test
-      run: ./text2table tests/in/test1.txt out.txt && cmp out.txt tests/out/test1.txt
+      run: ./text2table tests/in/test1.txt out.txt && cmp out.txt tests/out/output.txt
