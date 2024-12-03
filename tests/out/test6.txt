@@ -1,4 +1,4 @@
-a  b          c  d  e   f
-aa bb         cc dd
-aaabbb        cccdddeee fff
-aaabbb        cccccccccc
+a   b   c           d   e   f
+aa  bb  cc          dd
+aaa bbb ccc         ddd eee fff
+aaa bbb cccccccccc
