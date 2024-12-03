@@ -1,7 +1,0 @@
-a  b                    c  d  e  f
-aa bb                   cc dd ee ff
-aaabbb                  cccdddeeefff
-aaabbb                  cccccccccccccccccccccdddeeefff
-aaab                    cccdddeeefffa
-a  f
-
